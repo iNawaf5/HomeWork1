@@ -1,4 +1,9 @@
 {
-  "name": "<img src=x onerror=alert(1)>",
-  "message": "<script>alert('XSS')</script>"
+    "url": "https://m0x0101.github.io/lol/test.yaml",
+    "urls": [
+        {
+            "url": "https://m0x0101.github.io/lol/test.yaml",
+            "name": "Foo"
+        }
+    ]
 }
